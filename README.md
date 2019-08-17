@@ -5,7 +5,7 @@ This code is provided as part of our work - generating a cost-effectivy security
 
 ## Prerequisites
 
-The ASPIRE framework is built with Python 3.6, and mainly relies on [ChainerRL](https://github.com/chainer/chainerrl) reinforcement learning (RL) library, as well as [OpenAI Gym](https://github.com/openai/gym) for RL environments.  
+The ASPIRE framework is built with Python 3.6, and mainly relies on [ChainerRL](https://github.com/chainer/chainerrl) reinforcement learning (RL) library, as well as [OpenAI Gym](https://github.com/openai/gym) for the RL environment.  
 In the provided `requirement.txt` file, you can find the libraries that should be installed for our framework to work. This can be done using the following command:
 
 ```sh
